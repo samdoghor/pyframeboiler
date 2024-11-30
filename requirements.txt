@@ -17,7 +17,7 @@ editor==1.6.6
 filelock==3.13.1
 flake8==7.0.0
 ghp-import==2.1.0
-idna==3.6
+idna==3.7
 importlib_metadata==7.0.2
 inquirer==3.2.4
 jaraco.classes==3.3.1
